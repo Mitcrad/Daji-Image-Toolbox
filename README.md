@@ -1,4 +1,4 @@
-# Daji-Picture-Toolbox
+# Daji Image Toolbox
 Automatically monitor a folder of your choice. Whenever a new image is added, you can choose from three automated actions:
 
 1. **Automatically apply your preset watermark** while keeping the original image.
